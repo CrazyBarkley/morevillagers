@@ -69,4 +69,17 @@
   "advancements.root.description": "Twoja osadnicza przygoda czeka.",
   "advancements.tame_cat.title": "Maskotka Miasta",
   "advancements.tame_cat.description": "Oswój kota w wiosce."
+  "text.autoconfig.morevillagers.title": "More Villagers Config",
+  "text.autoconfig.morevillagers.option.houses": "Ustawienia generowania domów",
+  "text.autoconfig.morevillagers.option.houses.generatePlainsHouses": "Generuj domy na Równinach",
+  "text.autoconfig.morevillagers.option.houses.generateTaigaHouses": "Generuj domy w Tajdze",
+  "text.autoconfig.morevillagers.option.houses.generateSavannaHouses": "Generuj domy na Sawannie",
+  "text.autoconfig.morevillagers.option.houses.generateSnowyHouses": "Generuj domy w Ośnieżonych Biomach",
+  "text.autoconfig.morevillagers.option.houses.generateDesertHouses": "Generuj domy na pustyniach",
+  "text.autoconfig.morevillagers.option.weights": "Waga domów (Częstotliwość spawnów)",
+  "text.autoconfig.morevillagers.option.weights.woodworkerHouseWeight": "Waga domu Leśnika",
+  "text.autoconfig.morevillagers.option.weights.oceanographerHouseWeight": "Waga domu Oceanografa",
+  "text.autoconfig.morevillagers.option.weights.floristHouseWeight": "Waga domu Florysty",
+  "text.autoconfig.morevillagers.option.weights.hunterHouseWeight": "Waga domu Myśliwego",
+  "text.autoconfig.morevillagers.option.weights.engineerHouseWeight": "Waga domu Inżyniera"
 }
