@@ -26,7 +26,7 @@
   "entity.minecraft.villager.morevillagers.engineer": "Inżynier",
   "entity.minecraft.villager.morevillagers.florist": "Florysta",
   "entity.minecraft.villager.morevillagers.hunter": "Myśliwy",
-  "entity.minecraft.villager.morevillagers.miner": "Miner",
+  "entity.minecraft.villager.morevillagers.miner": "Górnik",
 
   "entity.minecraft.villager.oceanographer": "Oceanograf",
   "entity.minecraft.villager.netherian": "Netherolog",
@@ -35,7 +35,7 @@
   "entity.minecraft.villager.engineer": "Inżynier",
   "entity.minecraft.villager.florist": "Florysta",
   "entity.minecraft.villager.hunter": "Myśliwy",
-  "entity.minecraft.villager.miner": "Miner",
+  "entity.minecraft.villager.miner": "Górnik",
 
   "advancements.all_professions_traded.title": "Stały Klient",
   "advancements.all_professions_traded.description": "Handluj z Każdą Profesją.",
